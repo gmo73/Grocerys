@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+    body {
+         line-height: 1.5;
+         background-color: lightblue;
+     }
+
+    ul, ol {
+        margin-left: 2em;
+        text-align: left;
+        font-size: medium;
+        color:white
+        }
+    
+    h2 {
+        width: 100%;
+        text-align: center;
+        color:red
+        }
+
+        .image-contain {
+            object-position: center;
+            width: 150px;
+            height: 125px;
+            position:absolute;
+            top: 150px;
+            left: 500px;
+
+        }
+
+        .image-contain2 {
+            object-position: center;
+            width: 150px;
+            height: 125px;
+            position:absolute;
+            top: 350px;
+            left: 500px;
+
+        }
+
+    .header {
+        font-size:medium;
+        text-align: center;
+        color: white;
+        font-family: segie ui;
+        font-weight: bold;
+        text-decoration: underline;
+        text-shadow: 2px 2px 2px black;
+        
+    }
+
+  .header2 {
+    font-size:small;
+    background-color: blueviolet;
+    width: 550px;
+    text-align:center;
+    color: blanchedalmond;
+    position:absolute;
+    top: 100px;
+    left: 100px;
+  }
+  
+  .header3 {
+        font-size:small;
+        color: white;
+        background-color: red;
+        width: 550px;
+        text-align: center;
+        position:absolute;  
+        top: 300px;
+        left: 100px
+  }
+
+  .box1 {
+    font-size:small;
+    background-color: blue;
+    width: 150px;
+    height: 125px;
+    text-align: left;
+    position:absolute;
+    top: 150px;
+    left: 100px
+}
+
+  .box2 {
+    font-size:small;
+    background-color:yellowgreen;
+    width: 150px;
+    height: 125px;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+
+  }
+
+  
+    .box3 {
+        font-size:small;
+        background-color:lightcoral;
+        width: 150px;
+        height: 125px;
+        text-align: left;
+        position:absolute;
+        top: 350px;
+        left: 100px
+    
+      }
+    
+      .box4 {
+        font-size:small;
+        background-color:black;
+        width: 150px;
+        height: 125px;
+        position: absolute;
+        top: 350px;
+        left: 300px;
+      }
+
+
+
